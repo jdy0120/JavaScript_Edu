@@ -68,11 +68,10 @@ body {
 
   .hover-left .left,
   .hover-right .right {
-      height: 90%;
+    height: 90%;
   }
   .hover-left .right,
   .hover-right .left {
-      height: 10%;
+    height: 10%;
   }
-|
 }
